@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "angelic-turbine-426005-c6",
+  "private_key_id": "d32b7a1c92f4c3960e8c480068863d7fc4f526af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDfW5+vG6YsWdlt\ndkpPRH7QO9nW2+SaKvj8P3YaMe4y0gU5a9j0k+xqFDnPqH959X/TsByRCdINuUe2\n4nD/mReRYXGw7IYOfmzGufw91maf/6klpTYo6eSkw8ZcPFMgvBNNDdcImT3bjZlG\n/qTW8ERP2qb0ydOeVX8WVqhThjjUN2UC0/luOBEmkBYKkkEU1lg5rb14SNH3/zF6\nXAr2iLmJy6IX9poVsrlLZC7SxRR7PSH3I+rY436p9dB0+F3hKcubFJy8rhyKnp2Z\nlGqyPisHM++GOKDDGVf0haWsICu50HN2c6AIDB9nIx2Ajbk2IrJPwhVg3o7kIyB6\nnDxVn+bBAgMBAAECggEACIdMUwcipvybebWoFP7aI9grvv0ZSoqdPpcIeWA4Pdxw\nRxVtLLqsUbHhMfQrzTAf5RHcvtTT7/QfNjT9uGQIOdhIuF5mNDDWb3ROGq7nrxN9\nm4TJSzgAjK3ZkonC9ND7FPW3GWHQ7Ia3Moe7n306ILTQCRlqfZJGbpknqfeyvSuc\nw8LgeCFSOvwyjsl5EUpy9373HqAA3qL1pPbB3sqMy9YKO7y6wMqGcRYPTDZ3OCTL\n5t0ySzHYStE8Bq6XKwao43KM3U/HeOBpxZc8EGqhzYmxicpR1jEfh6ULWWZYPsiX\nDAPFUC/MnSXxDnP/mAlny9aMp7rBB1Msyu5u7BJcZwKBgQD5ADvqdz06P01y3+Iq\nVhGoJPm6yses5Bl7uJKYvUstTEh862P+chon1zRQ+VQWpzO1FeiQwa5yD3YBbxIz\nqtKL2+NQxLmvt7nC8NZdW+O31tyL/vKfl4mKd05RpUN4j7UJtWIydNms6TKkkuXn\nmgyRqdqHYAXBJpa8Sw0u4DBhYwKBgQDlot4CUN0gON30VdBl/0W1xgWPjmDYlXOd\ne2/UGQwAcW7dI7alnuFXU3IazW0zCXzZZVlF3CynDYGuGY6SsSOEONcB0G2xZ9aE\nSdfc2q7yc/jmpw/XcabP0I04XomvnzjLrH8J0R13yzL623V47exI5IiN+Fno2Mza\nOxFd9JrCiwKBgDAO/IF3fCjG2QLn9TXooMXMRSrpQnq7F7QKXrj+KAlZJNB/ejA9\nA5FW9vD9/l3U7aTw0o9F4o5/L259aozwVmzKBuiq34/rrP3UD/u65Yuw+6ZFkbx9\nuf0wo7wcYpZdXjq+eHJ2nSDDbZPYCmmWEQD4QIZKYTHzabpz3dqDSLMzAoGAKWb7\n8B70P2MBYZQ3RqyHvQY+6msZOvN3LOWce/koGMxa2LQfsiy7JCt/XyW6koEbaXbE\nabwQsO3We7VP51LYvHYjDciuflXib2eA6+jhsgUG0087o/RxxvYrAAbLfEaQzugC\n35o8XeTdBC2dOHhtKZdKp44nZ7vu80nDD9WSMZECgYAI9q52TcFznukGSAALL8Wc\nHbF4Yli5lEW3JaGgV2BO6+4kdr+VK0VhzRfkK+t+mZKXFFAqTE4wu0g63jULY8Pm\ng+7wIzWAKFzrAx82x1dKe6GB54VxrrxEyW60aY7SuieHFIojbvNaGkCD3Shq9yun\ncihVGcYlcQo5xSB2Q+DZwg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@angelic-turbine-426005-c6.iam.gserviceaccount.com",
+  "client_id": "106913730822826713551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40angelic-turbine-426005-c6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
