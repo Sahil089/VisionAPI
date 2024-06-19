@@ -70,3 +70,5 @@ def search():
             f.save(file_path)
             data=detect_web(file_path) 
         return render_template("dec_glob.html", data=data)
+if __name__ == '__main__':
+    app.run()
